@@ -4,7 +4,7 @@
 
 ![This is an image]()
 
-Mulitple linear regression was used to test if vehicle length(x~1~), vehicle weight(x_2), spoiler angle(x_3), ground clearance(x_4), and AWD(x_5) significantly predicted MPG as shown in the image above. 
+Mulitple linear regression was used to test if vehicle length(x~1), vehicle weight(x_2), spoiler angle(x_3), ground clearance(x_4), and AWD(x_5) significantly predicted MPG as shown in the image above. 
 
 The following regression model was produced: Predicted MPG = -104 + 6.267(x_1) + 0.0012(x_2) + 0.0688(x_3) + 3.546(x_4) + -3.411(x_5)
 
